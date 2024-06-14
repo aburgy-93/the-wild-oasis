@@ -2,8 +2,6 @@ import DashboardLayout from "../features/dashboard/DashboardLayout";
 import DashboardFilter from "../features/dashboard/DashboardFilter";
 import Heading from "../ui/Heading";
 import Row from "../ui/Row";
-import { useRecentBookings } from "../features/dashboard/useRecentBookings";
-import Spinner from "../ui/Spinner";
 
 function Dashboard() {
   return (
