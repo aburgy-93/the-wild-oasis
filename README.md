@@ -1,5 +1,7 @@
 # The Wild Oasis
 
+Built with React Query and Supabase
+
 // Future features
 
 1. create a way to check in a new guest who just shows up
