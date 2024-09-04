@@ -23,8 +23,6 @@ function DashboardLayout() {
 
   if (isLoading1 || isLoading2 || isLoading3) <Spinner />;
 
-  console.log(bookings);
-
   return (
     <StyledDashboardLayout>
       <Stats
