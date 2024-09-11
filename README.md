@@ -8,6 +8,8 @@ This is a demo project.
 DO NOT enter your real email information!
 Below is the login information to view the project.
 
+You may have to repopulate the test data upon logging in. Upload ALL will populate the data to date.
+
 Login Information:
 email: testemail@test.com
 password: password
